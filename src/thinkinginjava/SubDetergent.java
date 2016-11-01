@@ -7,10 +7,10 @@ package thinkinginjava;
 public class SubDetergent extends Detergent{
 	
     public void scrub(){
-	    super.scrub();
-	}
+        super.scrub();
+    }
 	
     public void sterilize(){
 	    
-	}
+    }
 }
