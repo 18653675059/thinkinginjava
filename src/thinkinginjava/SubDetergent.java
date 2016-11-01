@@ -6,11 +6,11 @@ package thinkinginjava;
  */
 public class SubDetergent extends Detergent{
 	
-	public void scrub(){
-		super.scrub();
+    public void scrub(){
+	    super.scrub();
 	}
 	
-	public void sterilize(){
-		
+    public void sterilize(){
+	    
 	}
 }
