@@ -1,6 +1,6 @@
 package thinkinginjava;
 /**
- * 7.2练习2
+ * 第7章练习2
  * @author Carlos
  *
  */
