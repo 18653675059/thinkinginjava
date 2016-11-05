@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class Cleanser{
 	private String s = "Cleanser";
 	

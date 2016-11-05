@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class A_07{
 	A_07(int i){
 		System.out.println("A_07 Constructor");

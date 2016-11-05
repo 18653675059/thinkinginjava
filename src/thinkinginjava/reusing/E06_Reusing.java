@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 /**
  * 注释掉下列语句后，编译器会报错
  * @author Carlos

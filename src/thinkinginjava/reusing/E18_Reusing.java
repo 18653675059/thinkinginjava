@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class SelfCounter{
 	private static int count;
 	private int id = count++;

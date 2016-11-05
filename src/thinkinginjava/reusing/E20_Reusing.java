@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class WithFinals{
 	private final void f(){
 		System.out.println("WithFinals.f()");

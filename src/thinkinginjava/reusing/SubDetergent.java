@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 /**
  * 第7章练习2
  * @author Carlos

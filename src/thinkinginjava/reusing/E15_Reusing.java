@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class sub{
 	protected void method() {
 		System.out.println("protected method");

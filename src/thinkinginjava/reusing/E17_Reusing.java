@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class Amphibian_17{
 	void echo(Amphibian_17 a){
 		System.out.println("super method running");

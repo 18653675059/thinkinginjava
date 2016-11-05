@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 /**
  * 第七章练习3和4
  * 练习4缺少一个前提：当构建子类对象时，基类构造器总是会被调用，并且在子类构造器之前被调用

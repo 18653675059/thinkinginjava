@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class WithFinalMethod{
 	final void method(){
 		System.out.println("final method");

@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 
 class WithBlankFinalField { 
 

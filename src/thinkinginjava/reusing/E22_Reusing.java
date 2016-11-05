@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 final class FinalClass{
 	
 }

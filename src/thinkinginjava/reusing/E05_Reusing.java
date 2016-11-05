@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class A{
 	A(){
 		System.out.println("A Constructor");

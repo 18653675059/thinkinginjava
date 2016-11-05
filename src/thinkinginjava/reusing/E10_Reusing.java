@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class Component1_10{
 	Component1_10(int i){
 		System.out.println("Component1_10 Constructor");

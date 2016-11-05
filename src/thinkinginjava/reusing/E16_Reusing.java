@@ -1,4 +1,4 @@
-package thinkinginjava;
+package thinkinginjava.reusing;
 class Amphibian{
 	void echo(Amphibian a){
 		System.out.println("method running");
