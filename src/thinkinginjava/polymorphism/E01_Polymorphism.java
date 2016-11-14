@@ -10,14 +10,22 @@ class Unicycle extends Cycle{
 	
 	public int wheels() { 
 		return 1; 
-	} 
+	}
+	
+	public void balance(){
+		System.out.println("unicycle balance");
+	}
 }
 
 class Bicycle extends Cycle{
 	
 	public int wheels() { 
 		return 2; 
-	} 
+	}
+	
+	public void balance(){
+		System.out.println("bicycle balance");
+	}
 }
 
 class Tricycle extends Cycle{
